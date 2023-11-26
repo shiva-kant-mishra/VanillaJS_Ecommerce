@@ -17,15 +17,6 @@ Build a REST API using vanilla JS to manage the product details and add new prod
 - Test the output in the REST Client Postman​
 ​
 
-# Instructions
-
-1. Download and unzip the boilerplate code.
-2. Run the command `npm install` to install the dependencies.
-3. Open the boilerplate code in VSCode to develop the solution.
-4. Write the logic for the application in the **productsService.js** file in the **src** folder
-5. Write logic to read the request body data in the **utils.js** file in the **src** folder
-6. Create the server in the **app.js** file and use the functions of the **productsService.js**
-
 ## Running the code
 
 - Execute the `npm start` command to start the application
@@ -34,6 +25,4 @@ Build a REST API using vanilla JS to manage the product details and add new prod
 ## Testing the application
 
 - Run the test scripts available under **src/test** by giving `npm run test` command in the terminal to test locally.
-- Refactor the solution to ensure all test cases are passing.
-- Zip the solution code with the name same as assignment name.
-- Upload the zipped solution for submission.
+
